@@ -11,7 +11,6 @@
 - 🤝 I'm open to collaborations in game development, animation, or any tech-driven creative projects.
 
 ## Let's Connect!
-- 📫 Reach me via email:
 - 📱 Connect with me on LinkedIn:  [linkedin.com/in/carolyndickenson](https://www.linkedin.com/in/carolyndickenson)
 
 ## A Little More About Me
