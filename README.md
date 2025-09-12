@@ -2,6 +2,7 @@
 
 ## About Me
 - 🌟 I'm Carolyn, an aspiring software engineer with a passion for technology and creativity.
+- Currently enrolled at Purdue University.
 - 📚 I'm currently enhancing my skills in C++, Python, and exploring other programming languages to diversify my expertise.
 - 💡 I have a keen interest in AI, game development, and animation.
 - 🌍 Beyond coding, I'm enthusiastic about learning new skills and exploring different parts of the world.
