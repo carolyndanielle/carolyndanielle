@@ -21,8 +21,8 @@
   - **Japanese**: 🌟🌠 (Beginner)
   - **Korean**: 🌟🌠 (Beginner)
 
-## Explore My Work
-- [GitHub](https://github.com/carolyndanielle)
+## Explore My Portfolio
+- [Portfolio](https://www.carolyndickenson-vazquez.com/)
 
 <!---
 carolyndanielle/carolyndanielle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
