@@ -18,7 +18,7 @@
 - ⚡ Fun Fact: One of my goals is to be multilingual. Here's where I stand:
   - **English**: 🌟🌟🌟🌟🌟 (Native/Proficient)
   - **Spanish**: 🌟🌟🌟🌟🌟 (Native/Proficient)
-  - **Japanese**: 🌟🌟🌠 (Beginner)
+  - **Japanese**: 🌟🌠 (Beginner)
   - **Korean**: 🌟🌠 (Beginner)
 
 ## Explore My Work
